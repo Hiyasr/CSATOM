@@ -1,10 +1,6 @@
 # CSATOM
-
-Got it! If you prefer not to use the MIT License or any open-source license, you can create a custom license to reflect that it's your project and to specify the terms under which others can use it. Here is an updated README file without any mention of the MIT License, and with a section for your custom license.
-
 ### README.md
 
-```markdown
 # CSATOM (Citizen Science Astronomy and Telescope Observation Management)
 
 CSATOM is an innovative platform that brings together the worlds of citizen science and telescope observation management to empower astronomy enthusiasts, researchers, and citizen scientists to explore the cosmos and contribute to scientific discovery.
