@@ -1,9 +1,9 @@
-# CSATOM
+# CSAM
 ### README.md
 
-# CSATOM (Citizen Science Astronomy and Telescope Observation Management)
+# CSAM(Citizen Science Astronomy Management)
 
-CSATOM is an innovative platform that brings together the worlds of citizen science and telescope observation management to empower astronomy enthusiasts, researchers, and citizen scientists to explore the cosmos and contribute to scientific discovery.
+CSAM is an innovative platform that brings together the worlds of citizen science and telescope observation management to empower astronomy enthusiasts, researchers, and citizen scientists to explore the cosmos and contribute to scientific discovery.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ CSATOM is an innovative platform that brings together the worlds of citizen scie
 
 ## Introduction
 
-CSATOM aims to create a collaborative environment where astronomy enthusiasts and researchers can manage telescope observations, analyze astronomical data, and participate in citizen science projects. The platform fosters community engagement and scientific contributions by making astronomy accessible to everyone.
+CSAM aims to create a collaborative environment where astronomy enthusiasts and researchers can manage telescope observations, analyze astronomical data, and participate in citizen science projects. The platform fosters community engagement and scientific contributions by making astronomy accessible to everyone.
 
 ## Features
 
@@ -55,7 +55,7 @@ CSATOM aims to create a collaborative environment where astronomy enthusiasts an
 
 ## Usage
 
-To start the CSATOM platform, run the following command:
+To start the CSAM platform, run the following command:
 
 ```sh
 python main.py
@@ -79,4 +79,4 @@ Contributions are welcome! If you have any improvements or suggestions, please o
 
 ## Acknowledgements
 
-Thank you to all the astronomy enthusiasts, researchers, and citizen scientists who make projects like CSATOM possible. Special thanks to the open-source community for providing the tools and resources that support this platform.
+Thank you to all the astronomy enthusiasts, researchers, and citizen scientists who make projects like CSAM possible. Special thanks to the open-source community for providing the tools and resources that support this platform.
